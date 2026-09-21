@@ -30,7 +30,7 @@ Clone the repo and follow the project's own docs (`README`/`install.sh` inside) 
 
 ## Architecture
 
-Everything runs out of the box: a Full-stack app codebase (13 files).
+Everything runs out of the box: a Full-stack app codebase (5 files).
 
 ## FAQ
 
